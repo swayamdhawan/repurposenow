@@ -98,6 +98,6 @@ LICENSE                MIT
 
 Settings are saved to `~/.claude/plugins/repurposenow/` (`repurposer-config.md` and `brand-voice.md`).
 
-## Credits and license
+## License
 
-MIT. This plugin is based on the original `content-repurposer` plugin by **Jenna Potter** (MIT), modified and republished by Swayam Dhawan under the name RepurposeNow. Both copyright notices are kept in [`LICENSE`](LICENSE).
+MIT. See [`LICENSE`](LICENSE) for copyright notices.
