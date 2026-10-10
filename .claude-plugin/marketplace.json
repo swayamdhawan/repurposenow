@@ -1,15 +1,15 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "swayam-dhawan-creatofy-skill",
-  "description": "Swayam Dhawan Creatofy Skill: turn one long-form piece into a week of content",
+  "name": "repurposenow",
+  "description": "RepurposeNow: turn one long-form piece into a week of content",
   "owner": { "name": "Swayam Dhawan", "url": "https://creatofy.com" },
   "plugins": [
     {
-      "name": "swayam-dhawan-creatofy-skill",
+      "name": "repurposenow",
       "description": "Repurpose one long-form source into LinkedIn posts, X threads, email, blog posts, short-form video scripts and carousels, in your own brand voice.",
       "source": "./",
       "category": "productivity",
-      "homepage": "https://github.com/swayamdhawan/swayam-dhawan-creatofy-skill"
+      "homepage": "https://github.com/swayamdhawan/repurposenow"
     }
   ]
 }

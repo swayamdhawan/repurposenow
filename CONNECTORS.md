@@ -1,4 +1,4 @@
-# Swayam Dhawan Creatofy Skill — Connector Categories
+# RepurposeNow — Connector Categories
 
 Skills in this plugin reference connectors by category using `~~` placeholders. This makes the plugin portable across different tool setups.
 

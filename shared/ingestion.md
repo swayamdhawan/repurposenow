@@ -1,6 +1,6 @@
 # Shared Ingestion Module
 
-> This is a shared reference module, not a standalone skill. Every swayam-dhawan-creatofy-skill format skill includes this module in its Phase 1. Follow these steps exactly before beginning any content transformation.
+> This is a shared reference module, not a standalone skill. Every repurposenow format skill includes this module in its Phase 1. Follow these steps exactly before beginning any content transformation.
 
 ---
 
@@ -157,7 +157,7 @@ Before writing any output, check for a brand voice file.
 Look for the file at:
 
 ```
-~/.claude/plugins/swayam-dhawan-creatofy-skill/brand-voice.md
+~/.claude/plugins/repurposenow/brand-voice.md
 ```
 
 **If the file exists:** Read it fully. Apply all guidelines from it when writing format outputs. The brand voice file overrides any default stylistic choices.

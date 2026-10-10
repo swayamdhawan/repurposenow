@@ -1,10 +1,10 @@
 {
-  "name": "swayam-dhawan-creatofy-skill",
+  "name": "repurposenow",
   "version": "1.0.0",
   "description": "Repurpose any long-form content (video transcripts, blog posts, podcasts) into LinkedIn posts, X/Twitter threads, email newsletters, blog posts, short-form video scripts, and carousel slides. Includes brand voice calibration and flexible output destinations.",
   "author": { "name": "Swayam Dhawan", "url": "https://creatofy.com" },
-  "homepage": "https://github.com/swayamdhawan/swayam-dhawan-creatofy-skill",
-  "repository": "https://github.com/swayamdhawan/swayam-dhawan-creatofy-skill",
+  "homepage": "https://github.com/swayamdhawan/repurposenow",
+  "repository": "https://github.com/swayamdhawan/repurposenow",
   "license": "MIT",
   "keywords": ["content-repurposing", "linkedin", "twitter", "email", "blog", "shorts", "carousel", "marketing", "brand-voice", "creatofy"]
 }

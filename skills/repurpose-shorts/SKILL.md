@@ -64,7 +64,7 @@ Before ingesting any content, run these checks in order.
 Look for the config file at:
 
 ```
-~/.claude/plugins/swayam-dhawan-creatofy-skill/repurposer-config.md
+~/.claude/plugins/repurposenow/repurposer-config.md
 ```
 
 If the file does not exist, run the `setup-repurposer` skill inline before proceeding. Do not continue until the config is in place.
@@ -76,7 +76,7 @@ If the file exists, read it and note the configured destination folder for outpu
 Look for the brand voice file at:
 
 ```
-~/.claude/plugins/swayam-dhawan-creatofy-skill/brand-voice.md
+~/.claude/plugins/repurposenow/brand-voice.md
 ```
 
 **If the file does not exist**, pause and offer setup:

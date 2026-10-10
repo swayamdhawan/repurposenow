@@ -1,4 +1,4 @@
-# Swayam Dhawan Creatofy Skill
+# RepurposeNow
 
 **Turn one long-form piece into a week of content.**
 
@@ -54,15 +54,15 @@ Carousel    done      carousel.md
 ### Claude Code (plugin)
 
 ```
-/plugin marketplace add swayamdhawan/swayam-dhawan-creatofy-skill
-/plugin install swayam-dhawan-creatofy-skill
+/plugin marketplace add swayamdhawan/repurposenow
+/plugin install repurposenow
 ```
 
 ### Claude Code (GitHub CLI, as plain skills)
 
 ```bash
-gh repo clone swayamdhawan/swayam-dhawan-creatofy-skill /tmp/swayam-dhawan-creatofy-skill
-mkdir -p ~/.claude/skills && cp -R /tmp/swayam-dhawan-creatofy-skill/skills/* ~/.claude/skills/
+gh repo clone swayamdhawan/repurposenow /tmp/repurposenow
+mkdir -p ~/.claude/skills && cp -R /tmp/repurposenow/skills/* ~/.claude/skills/
 ```
 
 ### Claude Cowork and Claude desktop
@@ -70,7 +70,7 @@ mkdir -p ~/.claude/skills && cp -R /tmp/swayam-dhawan-creatofy-skill/skills/* ~/
 Download the repo as a zip, then add it under **Settings > Plugins** (or **Customize > Plugins**):
 
 ```bash
-gh repo clone swayamdhawan/swayam-dhawan-creatofy-skill && cd swayam-dhawan-creatofy-skill && zip -r ../swayam-dhawan-creatofy-skill.zip . -x '.git/*'
+gh repo clone swayamdhawan/repurposenow && cd repurposenow && zip -r ../repurposenow.zip . -x '.git/*'
 ```
 
 Restart the app, then run `/setup-repurposer`.
@@ -96,8 +96,8 @@ CONNECTORS.md          optional connector mappings
 LICENSE                MIT
 ```
 
-Settings are saved to `~/.claude/plugins/swayam-dhawan-creatofy-skill/` (`repurposer-config.md` and `brand-voice.md`).
+Settings are saved to `~/.claude/plugins/repurposenow/` (`repurposer-config.md` and `brand-voice.md`).
 
 ## Credits and license
 
-MIT. This plugin is based on the original `content-repurposer` plugin by **Jenna Potter** (MIT), modified and republished by Swayam Dhawan under the name Swayam Dhawan Creatofy Skill. Both copyright notices are kept in [`LICENSE`](LICENSE).
+MIT. This plugin is based on the original `content-repurposer` plugin by **Jenna Potter** (MIT), modified and republished by Swayam Dhawan under the name RepurposeNow. Both copyright notices are kept in [`LICENSE`](LICENSE).
